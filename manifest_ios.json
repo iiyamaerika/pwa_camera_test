@@ -1,6 +1,6 @@
 {
 	"name": "pwa camera test",
-	"short_name": "PWA CAMERA",
+	"short_name": "PWA CAMERA iOS",
 	"icons": [{
 				"src": "icon.png",
 				"sizes": "192x192",
